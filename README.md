@@ -56,10 +56,10 @@ chmod +x "name_of_script" i.e., chmod +x Splunk_Server.sh
 ```
 ## Information Regarding the Scripts
   
-  - Both source codes contain a link for downloading. If you are using this repository to configure Splunk, make sure that the link provided in the script is replaced with a newer and more stable one.
-  - The code is commented in an easy-to-read manner. If you do not understand a section of the code, feel free to reach out or use Google.
-  - If you notice splunk.tgz or splunkforwarder.tgz appearing and disappearing on your screen, it is intended, and that is because, for the sake of saving time cleaning up the download and extraction, it will automatically extract tarballs and remove tarball files.
-  - During installation for individual devices, you might get a pop-up for a sudo password. This is okay, as splunk files will be moved to the /opt/ directory, and some codes use the "sudo" command.
+ - Both source codes contain a link for downloading. If you are using this repository to configure Splunk, make sure that the link provided in the script is replaced with a newer and more stable one.
+ - The code is commented in an easy-to-read manner. If you do not understand a section of the code, feel free to reach out or use Google.
+ - If you notice splunk.tgz or splunkforwarder.tgz appearing and disappearing on your screen, it is intended, and that is because, for the sake of saving time cleaning up the download and extraction, it will automatically extract tarballs and remove tarball files.
+ - During installation for individual devices, you might get a pop-up for a sudo password. This is okay, as splunk files will be moved to the /opt/ directory, and some codes use the "sudo" command.
   
   
 # Demo
