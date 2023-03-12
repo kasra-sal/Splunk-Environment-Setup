@@ -53,7 +53,7 @@ git clone https://github.com/kasra-sal/File-Integrity-Monitor.git
 Once you cloned this repository, make sure you run the following command to make it executable:
 ```
 chmod +x "name_of_script" i.e., chmod +x Splunk_Server.sh
-
+```
 ## Information Regarding the Scripts
   
   - Both source codes contain a link for downloading. If you are using this repository to configure Splunk, make sure that the link provided in the script is replaced with a newer and more stable one.
